@@ -6,7 +6,7 @@ if [[ $1 =~ ^[A-Z][a-z].* ]]
 then
 	echo "How proper!"
 else
-	echo "No donut for you! :("
+	echo "No donut for you! :X"
 fi
 
 echo "End program"
